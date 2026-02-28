@@ -74,7 +74,7 @@ Data cleaning and transformation were performed using Power Query.
 ---
 
 ## 📷 Dashboard Preview
-[Images/dashboard_preview.png)](https://github.com/anand193/-Customer-Shopping-Behaviour-Analysis-Power-BI-Dashboard/blob/main/Dashboard%20preview.png)
+![Images/dashboard_preview.png)](https://github.com/anand193/-Customer-Shopping-Behaviour-Analysis-Power-BI-Dashboard/blob/main/Dashboard%20preview.png)
 
 ---
 
